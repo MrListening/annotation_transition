@@ -1,0 +1,18 @@
+#include"CommentConvert.h"
+
+StateType state;
+
+
+
+void test()
+{
+    CommentConvert();
+}
+
+int main()
+{
+    test();
+
+    system("pause");
+    return 0;
+}
